@@ -1,0 +1,13 @@
+#debug
+client = 192.168.1.118
+
+#192.168.1.118 openwrt
+#192.168.1.103 wired openwrt
+#192.168.1.103 wireless tp link
+#192.168.1.100 pentagram tp link gateway
+#192.168.1.1   openwrt gateway
+
+port = 9034
+#default wlan0
+interface = horst0
+outfile = packets.dump
